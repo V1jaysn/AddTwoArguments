@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TwoArgumentsProj": {
+      "commandName": "Project",
+      "commandLineArgs": "test vamsi"
+    }
+  }
+}
