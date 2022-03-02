@@ -2,7 +2,10 @@
 This project is a simple console application created in .NET 6.0. 
 This application also use Sql Server, Ef Core 6, Migrations for managing database operations.
 NUnit has been used for unit testing the Extension method as requested. Positive scenarios with one exception scenario has been covered. 
-
+# Pre-requisites:
+1. Visual Studio 2022.
+2. SQL Server 2019 with a active server.
+3. SSMS 18+
 # Instruction on how to run the project:
 1. Download or clone the project from this repo.
 2. Allow it to restore the dependencies.
