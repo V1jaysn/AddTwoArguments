@@ -1,6 +1,4 @@
-﻿using System.Runtime.Remoting;
-
-namespace TwoArgumentsProj.Models;
+﻿namespace TwoArgumentsProj.Models;
 
 public class AddArguments
 {
